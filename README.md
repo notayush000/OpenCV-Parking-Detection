@@ -3,6 +3,8 @@
 
 In this project, we have built a parking space counter. We began by selecting the parking spaces. Subsequently, we implemented a system to detect whether a space is occupied or not. This allows us to calculate the number of free spaces available.
 
+![car_park_opencv](https://github.com/notayush000/OpenCV-Parking-Detection/assets/58353326/c5981e83-4996-48e0-ade7-216c31e18527)
+
 
 ## Acknowledgements
 
